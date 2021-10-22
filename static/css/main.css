@@ -1,0 +1,56 @@
+    body {
+        /* background: url(../../static/imagenes/ai.jpg);
+  background-size: 1900px 1000px;   */
+        background: #002a3f;
+    }
+    
+    label {
+        padding: 16px 48px;
+        border: 3px solid #ffc872;
+        border-radius: 48px;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        font-weight: bold;
+        color: #ffc872;
+        margin-top: 310px;
+        margin-left: 340px;
+    }
+    
+    label:hover {
+        transform: scale(1.04);
+    }
+    
+    label.active {
+        background-color: #b1976f;
+        color: #242424;
+    }
+    
+    label span {
+        font-weight: normal;
+    }
+    /* button {
+        width: 30px;
+        height: 20px;
+    } */
+    /* .descripcion{
+  background: hsla(0, 10%, 100%, 0.7);
+  color: black;
+  width: 550px;
+  height: 250px;
+  padding: 20px;
+  margin: 20px;
+  margin-top: 250px;
+  margin-left: 280px;
+  text-align: justify;
+}
+form {
+  margin: 20px;
+  padding: 20px;
+}
+
+form input{
+  margin: 20px;
+  margin-top: 10px;
+  margin-left: 80px;
+  padding: 20px; 
+}
